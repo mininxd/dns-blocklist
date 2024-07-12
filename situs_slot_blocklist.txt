@@ -4,7 +4,7 @@
 127.0.0.1 pafikotajayapura.org
 127.0.0.1 www.newwokrestaurant.com
 127.0.0.1 sipp.pn-meureudu.go.id
-127.0.0.1 *.diblast.com^$important
+127.0.0.1 diblast.com
 127.0.0.1 verification.diblast.com
 127.0.0.1 maxoriental.vip
 127.0.0.1 www.giltinis.com
