@@ -1,12 +1,12 @@
-0-bet.com
-00-online-casino.com
-pafikotajayapura.org
-www.newwokrestaurant.com
-sipp.pn-meureudu.go.id
-*.diblast.com^$important
-verification.diblast.com
-maxoriental.vip
-www.giltinis.com
+127.0.0.1 0-bet.com
+127.0.0.1 00-online-casino.com
+127.0.0.1 pafikotajayapura.org
+127.0.0.1 www.newwokrestaurant.com
+127.0.0.1 sipp.pn-meureudu.go.id
+127.0.0.1 *.diblast.com^$important
+127.0.0.1 verification.diblast.com
+127.0.0.1 maxoriental.vip
+127.0.0.1 www.giltinis.com
 127.0.0.1	05ee3a24ed11df058c8.com
 127.0.0.1	188affiliates.com
 127.0.0.1	1iklanbaris.com
