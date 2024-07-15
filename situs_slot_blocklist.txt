@@ -180,6 +180,7 @@
 127.0.0.1	q1xyxm89.com
 127.0.0.1	qwvktoqxqum.bid
 127.0.0.1	realwap.net
+127.0.0.1 rebrand.ly
 127.0.0.1	referral-secrets.com
 127.0.0.1	replase.gq
 127.0.0.1	replase.ml
