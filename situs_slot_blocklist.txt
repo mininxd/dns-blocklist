@@ -1,5 +1,7 @@
 127.0.0.1 www.gtr303.click
 127.0.0.1 domaininnovations.com
+127.0.0.1 kominfo.go.id
+127.0.0.1 *.kominfo.go.id
 127.0.0.1 inialternatifku.com
 127.0.0.1 bulanjul14.store
 127.0.0.1 119.31.254.58
