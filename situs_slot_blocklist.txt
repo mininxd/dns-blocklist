@@ -7197,3 +7197,4 @@
 127.0.0.1 x.bidswitch.net
 127.0.0.1 388heroslotmaxwin1.com
 127.0.0.1 masuk2.redirect388herosafest.com
+127.0.0.1 hana189.org
